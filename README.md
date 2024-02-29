@@ -11,7 +11,8 @@ To run 1st Assignment:
 - on terminal four run ">rosrun assignment2 node_B"
 - on terminal five run ">rosrun assignment2 node_C"
 
-Before running 2nd assignment, go to "assignment1/src/action_server.cpp". Comment first part of the code , then uncomment second part of code which is separated from fisrt part by "ASSIGNMENT 2".
+*Before running 2nd assignment, go to "assignment1/src/action_server.cpp". Comment first part of the code , then uncomment second part of code which is separated from fisrt part by "ASSIGNMENT 2".*
+
 To run 2nd Assignment:
 
 
