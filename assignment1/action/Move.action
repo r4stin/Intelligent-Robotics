@@ -1,0 +1,12 @@
+#goal
+Header header
+geometry_msgs/Pose desired_pose
+---
+#result
+Header header
+bool completed
+geometry_msgs/Point[] obstacle_positions
+---
+#feedback
+Header header
+string status

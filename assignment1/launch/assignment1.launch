@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+<node name ="server" pkg="assignment1" type="action_server"/>
+<node name ="client" pkg="assignment1" type="action_client" output="screen"/>
+</launch>
