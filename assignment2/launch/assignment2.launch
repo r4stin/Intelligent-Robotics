@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<launch>
-<node name ="server" pkg="assignment1" type="action_server"/>
-<node name ="node_A" pkg="assignment2" type="node_A" output="screen"/>
-</launch>
