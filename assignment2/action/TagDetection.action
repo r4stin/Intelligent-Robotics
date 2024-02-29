@@ -1,0 +1,13 @@
+#goal
+int32 marker_ID
+---
+#result
+int32 marker_ID
+geometry_msgs/Pose marker_pose
+float32 marker_size
+geometry_msgs/Pose[] obstacles_pose
+int32[] obstacles_ID
+float32[] obstacles_size
+---
+#feedback
+string status
